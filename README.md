@@ -10,7 +10,7 @@ Installation steps:
 3) Unzip QC2BROWizard vx.x (64 bit, dddd-mm-dd).zip     (QC- and BRO Migration Wizard, in empty directory)
 
 Get started with example data:
-1) Unzip file 'QC-Example data.zip'
+1) Unzip file 'Example brondata.zip'
 2) Start QC2BROWizard.exe (by double clicking)
 3) Open a bron-file of your choice via the QC-Wizard toolbar or menubar
 
