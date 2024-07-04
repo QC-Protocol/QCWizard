@@ -24,9 +24,9 @@ Or get started with external data:
 
 --------------------------------------- Versioning, support and operational use  ---------------------------------------
 
-Please note that the current version is an alpha version (it is feature incomplete). Work continuous in order to release 
-it as beta version (feature complete), and subsequently as release candidate and official release. Please contact Trefoil 
-Hydrology if you have any questions, comments or whishes in this respect.
+Please note that the current version is an alpha version (it is feature incomplete). Work continues in the coming period 
+in order to release it as beta version (feature complete), and subsequently as release candidate and official release. 
+Please contact Trefoil Hydrology if you have any questions, comments or whishes in this respect.
 
 ------------------------------------------------------------------------------------------------------------------------
 
